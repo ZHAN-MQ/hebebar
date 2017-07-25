@@ -2,12 +2,28 @@
   "pages":[
     "pages/index/index",
     "pages/mode1/mode1",
-    "pages/mode2/mode2"
+    "pages/mode2/mode2",
+    "pages/explain/explain"
   ],
   "window":{
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "hebebar",
+    "navigationBarTitleText": "甄吧线上简易荧光棒",
     "navigationBarTextStyle":"black"
+  },
+  "tabBar":{
+    "borderStyle": "white",
+    "selectedColor":"#008000",
+    "list":[{
+      "pagePath": "pages/index/index",
+      "text": "荧光棒",
+      "iconPath": "image/light.png",
+      "selectedIconPath":"image/light_green.png"
+    },{
+       "pagePath": "pages/explain/explain",
+       "text": "说明",
+       "iconPath": "image/notepad.png",
+       "selectedIconPath": "image/notepad_green.png"
+    }]
   }
 }
