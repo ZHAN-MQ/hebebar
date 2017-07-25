@@ -1,0 +1,11 @@
+.mode1{
+    position: fixed;
+    bottom: 300rpx;
+    left: 150rpx;
+}
+
+.mode2{
+    position: fixed;
+    bottom: 300rpx;
+    right: 150rpx;
+}

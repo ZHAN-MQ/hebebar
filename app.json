@@ -1,0 +1,13 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/mode1/mode1",
+    "pages/mode2/mode2"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "hebebar",
+    "navigationBarTextStyle":"black"
+  }
+}
