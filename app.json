@@ -13,12 +13,12 @@
   },
   "tabBar":{
     "borderStyle": "white",
-    "selectedColor":"#008000",
+    "selectedColor":"#3d8743",
     "list":[{
       "pagePath": "pages/index/index",
       "text": "荧光棒",
-      "iconPath": "image/light.png",
-      "selectedIconPath":"image/light_green.png"
+      "iconPath": "image/lightstick.png",
+      "selectedIconPath":"image/lightstick_green.png"
     },{
        "pagePath": "pages/explain/explain",
        "text": "说明",

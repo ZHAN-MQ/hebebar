@@ -1,11 +1,23 @@
 .mode1{
     position: fixed;
+    background-color: white;
+    color: #3d8743;
+    font-size: 40rpx;
+    border: 4rpx solid #3d8743;
+    text-align: center;
+    border-radius: 24rpx;
     bottom: 150rpx;
-    left: 150rpx;
+    left: 130rpx;
 }
 
 .mode2{
     position: fixed;
+    background-color: white;
+    color: #3d8743;
+    font-size: 40rpx;
+    border: 4rpx solid #3d8743;
+    text-align: center;
+    border-radius: 24rpx;
     bottom: 150rpx;
-    right: 150rpx;
+    right: 130rpx;
 }

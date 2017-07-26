@@ -1,13 +1,7 @@
 <!--index.wxml-->
 <view class="container">
     <image style="width:300rpx; height:300rpx;" mode="aspectFit" src="/image/hebebarlogo.png" background-size="cover"></image>
-  <view>
-    <view  bindtap="bindViewTap1" class="mode1">
-      <button class="mode1">mode1</button>
-    </view>
-    <view  bindtap="bindViewTap2" class="mode2">
-      <button class="mode2">mode2</button>
-    </view>
-  </view>
+      <button bindtap="bindViewTap1" class="mode1" >恒亮</button>
+      <button bindtap="bindViewTap2" class="mode2" >闪烁</button>
 </view>
 
