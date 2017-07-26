@@ -1,0 +1,4 @@
+.hebetien{
+  position: fixed;
+  left: 160rpx;
+}

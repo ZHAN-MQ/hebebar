@@ -1,0 +1,3 @@
+<view class="hebetien">
+    <image class="hebetien" style="width:500rpx; height:500rpx;" mode="aspectFit" src="/image/hebetien.png" background-size="cover"></image>
+</view>
