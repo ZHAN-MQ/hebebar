@@ -1,3 +1,6 @@
 <view class="hebetien">
     <image class="hebetien" style="width:500rpx; height:500rpx;" mode="aspectFit" src="/image/hebetien.png" background-size="cover"></image>
 </view>
+<view class="ifplus">
+    <image class="ifplus" style="width:500rpx; height:500rpx;" mode="aspectFit" src="/image/ifplus.png" background-size="cover"></image>
+</view>

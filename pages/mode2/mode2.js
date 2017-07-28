@@ -69,6 +69,9 @@ Page({
     var that = this;
     wx.setScreenBrightness({
       value: 0.5,
+    });
+    wx.redirectTo({
+      url: '../index/index',
     })
   },
 

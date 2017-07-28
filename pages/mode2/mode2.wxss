@@ -1,4 +1,9 @@
 .hebetien{
   position: fixed;
-  left: 160rpx;
+  left: 150rpx;
+}
+.ifplus{
+  position: fixed;
+  top:500rpx;
+  left: 140rpx;
 }
